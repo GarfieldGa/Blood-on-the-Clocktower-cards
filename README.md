@@ -1,5 +1,5 @@
 # Blood-on-the-Clocktower-cards
-This repo contains printable game cards for blood on the clocktower with card generation code. The character portraits are generated using Chatgpt4 (DALL.E 3). The prompts are simple, just ask Chatgpt to create character portraits for a card game in pixel art style like 90s video game, with medieval fantasy world setting. The generated card fronts are stored in '''Fronts/'''
+This is a tiny project that aims to print our own game cards for Blood on the Clocktower since Pandemonium haven't updated any experimental character expansion yet after they created so many. This repo contains printable game cards for blood on the clocktower with card generation code. The character portraits are generated using Chatgpt4 (DALL.E 3). The prompts are simple, just ask Chatgpt to create character portraits for a card game in pixel art style like 90s video game, with medieval fantasy world setting. The generated card fronts are stored in '''Fronts/'''
 
 ## Card size
 Standard boardgame size, 63mm*88mm
